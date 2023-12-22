@@ -1,0 +1,18 @@
+#shopping-cart-button {
+    border: none;
+}
+
+#finalizacao {
+    padding: 1rem;
+}
+
+#butao__finalizar{
+    background-color: var(--color-primary);
+    border: none;
+    color: var(--card);
+    font-weight: 600;
+    text-transform: uppercase;
+
+    width: 100%;
+    padding: .7rem;
+}
